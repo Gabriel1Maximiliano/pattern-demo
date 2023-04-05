@@ -1,10 +1,4 @@
-# Para reconstruir los módulos de node hacer 
-
-```js
-yarn
-
-```
-
+# pattern-demo  
 # Compound Component Pattern 
 
 La idea detrás de este repo es entender el uso del patrón Compound Component Pattern,
